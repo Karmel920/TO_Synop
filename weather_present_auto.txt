@@ -1,0 +1,78 @@
+01 - chmury zanikają
+            02 - stan nieba bez zmian
+            03 - chmury rozwijają się
+            04 - dym, zmętnienie lub pył w powietrzu, widzialność >= 1 km
+            05 - dym, zmętnienie lub pył w powietrzu, widzialność < 1 km
+            10 - zamglenie
+            11 - pył diamentowy
+            12 - błyskawica odległa
+            18 - nawałnica
+            20 - mgła w ciągu ostatniej godziny, ale nie w czasie obserwacji
+            21 - opad w ciągu ostatniej godziny, ale nie w czasie obserwacji
+            22 - mżawka lub śnieg ziarnisty w ciągu ostatniej godziny, ale nie w czasie obserwacji
+            23 - deszcz w ciągu ostatniej godziny, ale nie w czasie obserwacji
+            24 - śnieg w ciągu ostatniej godziny, ale nie w czasie obserwacji
+            25 - marznący deszcz lub mżawka w ciągu ostatniej godziny, ale nie w czasie obserwacji
+            26 - burza (z lub bez opadu) w ciągu ostatniej godziny, ale nie w czasie obserwacji
+            27 - zamieć śnieżna/wichura piaskowa
+            28 - zamieć śnieżna/wichura piaskowa, widzialność >= 1 km
+            29 - zamieć śnieżna/wichura piaskowa, widzialność < 1 km
+            30 - mgła
+            31 - mgła w płatach
+            32 - mgła rzedniejąca
+            33 - mgła bez zmian widzialności
+            34 - mgła gęstniejąca
+            35 - mgła osadzająca szadź
+            40 - opad
+            41 - opad słaby/umiarkowany
+            42 - opad silny
+            43 - opad ciekły słaby/umiarkowany
+            44 - opad ciekły silny
+            45 - opad stały słaby/umiarkowany
+            46 - opad stały silny
+            47 - opad marznący słaby/umiarkowany
+            48 - opad marznący silny
+            50 - mżawka
+            51 - mżawka słaba
+            52 - mżawka umiarkowana
+            53 - mżawka silna
+            54 - mżawka marznąca słaba
+            55 - mżawka marznąca umiarkowana
+            56 - mżawka marznąca silna
+            57 - mżawka z deszczem słaba
+            58 - mżawka z deszczem umiarkowana/silna
+            60 - deszcz
+            61 - deszcz słaby
+            62 - deszcz umiarkowany
+            63 - deszcz silny
+            64 - deszcz marznący słaby
+            65 - deszcz marznący umiarkowany
+            66 - deszcz marznący silny
+            67 - deszcz ze śniegiem słaby
+            68 - deszcz ze śniegiem umiarkowany/silny
+            70 - śnieg
+            71 - śnieg słaby
+            72 - śnieg umiarkowany
+            73 - śnieg silny
+            74 - ziarna lodowe słabe
+            75 - ziarna lodowe umiarkowane
+            76 - ziarna lodowe silne
+            77 - śnieg ziarnisty
+            78 - kryształki lodowe
+            80 - opad przelotny
+            81 - deszcz przelotny słaby
+            82 - deszcz przelotny umiarkowany
+            83 - deszcz przelotny silny
+            84 - deszcz przelotny gwałtowny
+            85 - śnieg przelotny słaby
+            86 - śnieg przelotny umiarkowany
+            87 - śnieg przelotny silny
+            89 - grad
+            90 - burza
+            91 - burza słaba/umiarkowana, bez opadu
+            92 - burza słaba/umiarkowana, przelotny deszcz/śnieg
+            93 - burza słaba/umiarkowana, grad
+            94 - burza silna, bez opadu
+            95 - burza silna, przelotny deszcz/śnieg
+            96 - burza silna, grad
+            99 - trąba
